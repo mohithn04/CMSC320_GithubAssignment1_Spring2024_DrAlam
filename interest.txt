@@ -1,0 +1,7 @@
+Why are you interested in taking CMSC320?
+
+I'm interested in taking CMSC320 because it delves into foundational data 
+science concepts like data analysis, wrangling, and visualization. These 
+are crucial skills I want to develop as I aim for a career in data science. 
+Mastering these fundamentals will equip me to extract meaningful insights 
+from data and effectively communicate them through visualizations.
